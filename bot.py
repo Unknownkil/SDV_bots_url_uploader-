@@ -4,7 +4,7 @@ from telebot import types
 import time
 
 # Telegram bot token
-TOKEN = 'BOT_TOKEN'
+TOKEN = '7610132838:AAFCZHxS96lqIejFQAfjcRjnjhm-GHMPZb0'
 bot = telebot.TeleBot(TOKEN)
 
 # Bot start confirmation

@@ -7,4 +7,4 @@ FROM python:3.9
 
      COPY . .
 
-     CMD ["python", "your_bot_file.py"]
+     CMD ["python", "bot.py"]

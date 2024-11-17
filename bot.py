@@ -5,7 +5,7 @@ from telebot import types
 import subprocess
 
 # Telegram bot token
-TOKEN = '7610132838:AAFCZHxS96lqIejFQAfjcRjnjhm-GHMPZb0'
+TOKEN = 'BOT_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 print(" Bot start ho gya GuRu ")
